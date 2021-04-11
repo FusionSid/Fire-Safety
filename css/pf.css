@@ -1,0 +1,138 @@
+/*
+	@name fire_safety_website_prototype
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__pf {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#menu_bar {
+	top: 7px;
+	left: 59px;
+	width: 1824px;
+	height: 95px;
+}
+
+#rectangle_249 {
+	top: 20px;
+	left: 1574px;
+	width: 250px;
+	height: 75px;
+}
+
+
+#_111_ek1 {
+	top: 32px;
+	left: 1663px;
+	width: 95px;
+	height: 62.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 45px;
+	text-align: left;
+	color:#F53855;
+}
+
+
+#fire_icon_png_1 {
+	top: 0px;
+	left: 286px;
+	width: 50px;
+	height: 76.27px;
+}
+
+
+#prevent_risks_of_a_fire {
+	top: 39px;
+	left: 646px;
+	width: 307px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#B50000;
+}
+
+
+#_what_to_do_during_a_fire_ {
+	top: 39px;
+	left: 1098px;
+	width: 353px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4F5665;
+}
+
+
+#_fire_safety {
+	top: 8px;
+	left: 0px;
+	width: 311px;
+	height: 105px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	color:#0B132A;
+}
+
+#scrollable_content {
+	top: 102px;
+	left: 0px;
+	width: 1080px;
+	height: 978px;
+}
+#content {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 3000px;
+}
+
+#fire_294487_1280_1 {
+	top: 98px;
+	left: 1125px;
+	width: 740px;
+	height: 681px;
+}
+
+
+#how_can_i_prevent_the_risk_of_a_fire_breaking_out_in_my_home_ {
+	top: 208px;
+	left: 79px;
+	width: 877px;
+	height: 281.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 75px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 70px;
+	padding-top: 5px;
+	margin-top: -5px;
+	color:#0B132A;
+}
+
+
+
+/* Add your custom CSS here */
