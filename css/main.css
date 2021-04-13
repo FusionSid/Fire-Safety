@@ -1,0 +1,221 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div {
+    position: absolute;
+    height: 17px;
+}
+
+.bg {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+.menu_bar {
+	top: 7px;
+	left: 59px;
+	width: 1824px;
+	height: 95px;
+}
+
+._111_ {
+	top: 32px;
+	left: 1663px;
+	width: 95px;
+	height: 62.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 45px;
+	text-align: left;
+	color:#F53855;
+}
+
+
+.fire_icon {
+	top: 0px;
+	left: 250px;
+	width: 50px;
+	height: 76.27px;
+}
+
+
+._prevent_risks_of_a_fire {
+	top: 39px;
+	left: 646px;
+	width: 307px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4F5665;
+}
+
+
+._what_to_do_during_a_fire_ {
+	top: 39px;
+	left: 1098px;
+	width: 353px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4F5665;
+}
+
+
+.fire_safety {
+	top: 8px;
+	left: 0px;
+	width: 350px;
+	height: 105px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	color:#0B132A;
+}
+
+.content {
+	top: 0px;
+	left: 0px;
+}
+
+.fire_safety_title {
+	top: 271px;
+	left: 150px;
+	width: 593px;
+	height: 192.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 75px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	padding-top: 5px;
+	margin-top: -5px;
+	color:#0B132A;
+}
+
+
+.what_find_page {
+	top: 416px;
+	left: 150px;
+	width: 570px;
+	height: 221px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4E5664;
+}
+
+
+.cysm {
+	top: 1880px;
+	left: 150px;
+	width: 804px;
+	height: 242px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	padding-top: 30px;
+	margin-top: -30px;
+	color:#0B132A;
+}
+
+
+.why_important {
+	top: 1005px;
+	left: 1173px;
+	width: 801px;
+	height: 242.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 75px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	padding-top: 5px;
+	margin-top: -5px;
+	color:#0B132A;
+}
+
+
+.fires_can_cause {
+	top: 1195px;
+	left: 1173px;
+	width: 570px;
+	height: 171px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4E5664;
+}
+
+
+.smoke_alarm {
+	top: 1723px;
+	left: 1107px;
+	width: 775px;
+	height: 657px;
+}
+
+
+.fire_safety_pic {
+	top: 239px;
+	left: 904px;
+	width: 900px;
+	height: 387.86px;
+}
+
+
+.fire_safety_poster {
+	top: 894px;
+	left: 286px;
+	width: 483px;
+	height: 773px;
+}
+
+
+.lifesaver {
+	top: 2117px;
+	left: 150px;
+	width: 593px;
+	height: 250px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 75px;
+	text-align: left;
+	line-height: 30px;
+	padding-top: 45px;
+	margin-top: -45px;
+	color:#4E5664;
+}
+
+.new_zealand_fire_department_website {
+	top: 2707px;
+	left: 150px;
+	width: 1000px;
+	height: 103px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
