@@ -1,76 +1,83 @@
-/*
-	@name fire_safety_website_prototype
-*/
-/* Only edit this if you know what you are doing! */
-body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+body {
+	width: 1280px;
+	padding: 0px;
+	font-family:"Arial";
 
-/* Only edit this if you know what you are doing! */
-img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
-
-/* Only edit this if you know what you are doing! */
-div { position: absolute; }
-
-#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
-
-#_bg__pf {
-	top: 0px;
-	left: 0px;
-	width: 1920px;
-	height: 1080px;
 }
 
-#menu_bar {
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img {
+	position: absolute;
+	display: block;
+	margin: 0px;
+	border: none;
+	padding: 0px;}
+
+
+div {
+	position: absolute;
+	height: 17px;
+}
+
+.bg {
+	top: 0px;
+	left: 0px;
+}
+
+.menu_bar {
 	top: 7px;
 	left: 59px;
-	width: 1824px;
+	width: 1575px;
 	height: 95px;
 }
 
-#rectangle_249 {
-	top: 20px;
-	left: 1574px;
-	width: 250px;
-	height: 75px;
-}
-
-
-#_111_ek1 {
+._111_ {
 	top: 32px;
-	left: 1663px;
+	left: 1500px;
 	width: 95px;
 	height: 62.5px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 45px;
+	font-size: 40px;
 	text-align: left;
-	color:#F53855;
+	color:#4F5665;
+}
+
+._111_:hover {
+	color: black;
+}
+
+.fire_icon {
+	top: 7px;
+	left: 260px;
+	width: 45px;
+	height: 71.27px;
 }
 
 
-#fire_icon_png_1 {
-	top: 0px;
-	left: 286px;
-	width: 50px;
-	height: 76.27px;
-}
-
-
-#prevent_risks_of_a_fire {
-	top: 39px;
-	left: 646px;
+._prevent_risks_of_a_fire {
+	top: 38px;
+	left: 600px;
 	width: 307px;
 	height: 57px;
 	overflow: hidden;
 	font-family: Rubik;
 	font-size: 30px;
 	text-align: left;
-	color:#B50000;
+	color:red;
 }
 
+._prevent_risks_of_a_fire:hover {
+	color: black;
+}
 
-#_what_to_do_during_a_fire_ {
-	top: 39px;
-	left: 1098px;
+._what_to_do_during_a_fire_ {
+	top: 38px;
+	left: 1000px;
 	width: 353px;
 	height: 57px;
 	overflow: hidden;
@@ -80,52 +87,38 @@ div { position: absolute; }
 	color:#4F5665;
 }
 
+._what_to_do_during_a_fire_:hover {
+	color: black;
+}
 
-#_fire_safety {
-	top: 8px;
-	left: 0px;
-	width: 311px;
+.fire_safety {
+	top: 15px;
+	left: 20px;
+	width: 350px;
 	height: 105px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 50px;
+	font-size: 45px;
 	font-weight: bold;
 	text-align: left;
 	line-height: 70px;
 	color:#0B132A;
 }
 
-#scrollable_content {
-	top: 102px;
-	left: 0px;
-	width: 1080px;
-	height: 978px;
-}
-#content {
+.content {
 	top: 0px;
 	left: 0px;
-	width: 1080px;
-	height: 3000px;
 }
 
-#fire_294487_1280_1 {
-	top: 98px;
-	left: 1125px;
-	width: 740px;
-	height: 681px;
-}
-
-
-#how_can_i_prevent_the_risk_of_a_fire_breaking_out_in_my_home_ {
-	top: 208px;
-	left: 79px;
-	width: 877px;
-	height: 281.5px;
+.pftitle {
+	top: 325px;
+	left: 150px;
+	width: 801px;
+	height: 242.5px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 75px;
+	font-size: 100px;
 	font-weight: bold;
-	text-decoration: underline;
 	text-align: left;
 	line-height: 70px;
 	padding-top: 5px;
@@ -134,5 +127,21 @@ div { position: absolute; }
 }
 
 
+.pft {
+	top: 525px;
+	left: 150px;
+	width: 570px;
+	height: 171px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 40px;
+	text-align: left;
+	color:#4E5664;
+}
 
-/* Add your custom CSS here */
+.bhimg {
+	left: 1000px;
+	top: 150px;
+	width: 600px;
+	height: 600px;
+}

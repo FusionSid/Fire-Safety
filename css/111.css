@@ -1,69 +1,67 @@
-/*
-	@name fire_safety_website_prototype
-*/
-/* Only edit this if you know what you are doing! */
-body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+body {
+	width: 1280px;
+	padding: 0px;
+	font-family:"Arial";
 
-/* Only edit this if you know what you are doing! */
-img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
-
-/* Only edit this if you know what you are doing! */
-div { position: absolute; }
-
-#content-container { display: block; position: relative; width: 1080px;  margin-left: auto; margin-right: auto;  }
-
-#_bg___111 {
-	top: 0px;
-	left: 0px;
-	width: 1080px;
-	height: 1080px;
 }
 
-#menu_bar {
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img {
+	position: absolute;
+	display: block;
+	margin: 0px;
+	border: none;
+	padding: 0px;}
+
+
+div {
+	position: absolute;
+	height: 17px;
+}
+
+.bg {
+	top: 0px;
+	left: 0px;
+}
+
+.menu_bar {
 	top: 7px;
 	left: 59px;
-	width: 1824px;
+	width: 1575px;
 	height: 95px;
 }
-#_111 {
-	top: 20px;
-	left: 1574px;
-	width: 250px;
-	height: 75px;
-}
 
-#rectangle_249 {
-	top: 0px;
-	left: 0px;
-	width: 250px;
-	height: 75px;
-}
-
-
-#_111_ek1 {
-	top: 12px;
-	left: 89px;
+._111_ {
+	top: 32px;
+	left: 1500px;
 	width: 95px;
 	height: 62.5px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 45px;
+	font-size: 40px;
 	text-align: left;
-	color:#FFFFFF;
+	color:#F53855;
+}
+
+._111_:hover {
+	color: darkred;
+}
+
+.fire_icon {
+	top: 7px;
+	left: 260px;
+	width: 45px;
+	height: 71.27px;
 }
 
 
-#fire_icon_png_1 {
-	top: 0px;
-	left: 286px;
-	width: 50px;
-	height: 76.27px;
-}
-
-
-#_prevent_risks_of_a_fire {
-	top: 39px;
-	left: 646px;
+._prevent_risks_of_a_fire {
+	top: 38px;
+	left: 600px;
 	width: 307px;
 	height: 57px;
 	overflow: hidden;
@@ -73,10 +71,13 @@ div { position: absolute; }
 	color:#4F5665;
 }
 
+._prevent_risks_of_a_fire:hover {
+	color: black;
+}
 
-#_what_to_do_during_a_fire_ {
-	top: 39px;
-	left: 1098px;
+._what_to_do_during_a_fire_ {
+	top: 38px;
+	left: 1000px;
 	width: 353px;
 	height: 57px;
 	overflow: hidden;
@@ -86,78 +87,25 @@ div { position: absolute; }
 	color:#4F5665;
 }
 
+._what_to_do_during_a_fire_:hover {
+	color: black;
+}
 
-#_fire_safety {
-	top: 8px;
-	left: 0px;
-	width: 311px;
+.fire_safety {
+	top: 15px;
+	left: 20px;
+	width: 350px;
 	height: 105px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 50px;
+	font-size: 45px;
 	font-weight: bold;
 	text-align: left;
 	line-height: 70px;
 	color:#0B132A;
 }
 
-
-#footer_logo_1 {
-	top: 284px;
-	left: 59px;
-	width: 1000px;
-	height: 511.81px;
+.content {
+	top: 0px;
+	left: 0px;
 }
-
-
-#source__nz_official_fire_and_emergency_website {
-	top: 960px;
-	left: 59px;
-	width: 1945px;
-	height: 276px;
-	overflow: hidden;
-	font-family: Rubik;
-	font-size: 50px;
-	font-weight: bold;
-	text-decoration: underline;
-	text-align: left;
-	line-height: 70px;
-	color:#000000;
-}
-
-
-#when_should_i_call_111_ {
-	top: 372px;
-	left: 1217px;
-	width: 593px;
-	height: 192.5px;
-	overflow: hidden;
-	font-family: Rubik;
-	font-size: 75px;
-	font-weight: bold;
-	text-align: left;
-	line-height: 70px;
-	padding-top: 5px;
-	margin-top: -5px;
-	color:#0B132A;
-}
-
-
-#if_you_see_smoke_or_fire_and_believe_there_s_a_risk_to_people_or_property__call_111_and_ask_for__fire__immediately__if_you_re_not_sure_whether_it_s_a_real_emergency_or_not__call_111_and_ask__when_in_doubt__call_111_ {
-	top: 520px;
-	left: 1212px;
-	width: 673px;
-	height: 255px;
-	overflow: hidden;
-	font-family: Rubik;
-	font-size: 40px;
-	text-align: left;
-	line-height: 30px;
-	padding-top: 10px;
-	margin-top: -10px;
-	color:#4E5664;
-}
-
-
-
-/* Add your custom CSS here */

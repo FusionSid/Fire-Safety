@@ -12,6 +12,7 @@ img {
 	border: none;
 	padding: 0px;}
 
+
 div {
 	position: absolute;
 	height: 17px;
@@ -25,7 +26,7 @@ div {
 .menu_bar {
 	top: 7px;
 	left: 59px;
-	width: 1280px;
+	width: 1575px;
 	height: 95px;
 }
 
@@ -38,9 +39,12 @@ div {
 	font-family: Rubik;
 	font-size: 40px;
 	text-align: left;
-	color:#F53855;
+	color:#4F5665;
 }
 
+._111_:hover {
+	color: black;
+}
 
 .fire_icon {
 	top: 7px;
@@ -62,6 +66,9 @@ div {
 	color:#4F5665;
 }
 
+._prevent_risks_of_a_fire:hover {
+	color: black;
+}
 
 ._what_to_do_during_a_fire_ {
 	top: 38px;
@@ -75,6 +82,9 @@ div {
 	color:#4F5665;
 }
 
+._what_to_do_during_a_fire_:hover {
+	color: black;
+}
 
 .fire_safety {
 	top: 15px;
