@@ -28,6 +28,11 @@ div {
 	left: 0px;
 }
 
+.bg {
+	top: 0px;
+	left: 0px;
+}
+
 .menu_bar {
 	top: 7px;
 	left: 59px;
@@ -44,11 +49,11 @@ div {
 	font-family: Rubik;
 	font-size: 40px;
 	text-align: left;
-	color:#F53855;
+	color:red;
 }
 
 ._111_:hover {
-	color: darkred;
+	color: black;
 }
 
 .fire_icon {
@@ -108,4 +113,39 @@ div {
 .content {
 	top: 0px;
 	left: 0px;
+}
+
+.otitle {
+	top: 250px;
+	left: 1000px;
+	width: 600px;
+	height: 242.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 80px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	padding-top: 5px;
+	margin-top: -5px;
+	color:#0B132A;
+}
+
+.oft {
+	top: 425px;
+	left: 1000px;
+	width: 600px;
+	height: 500px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 40px;
+	text-align: left;
+	color:#4E5664;
+}
+
+.fsimg {
+	left: 100px;
+	top: 300px;
+	width: 708px;
+	height: 470px;
 }

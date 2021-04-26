@@ -28,7 +28,87 @@ div {
 	left: 0px;
 }
 
+.bg {
+	top: 0px;
+	left: 0px;
+}
 
+.menu_bar {
+	top: 7px;
+	left: 59px;
+	width: 1575px;
+	height: 95px;
+}
+
+._111_ {
+	top: 32px;
+	left: 1500px;
+	width: 95px;
+	height: 62.5px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 40px;
+	text-align: left;
+	color:#4F5665;
+}
+
+._111_:hover {
+	color: black;
+}
+
+.fire_icon {
+	top: 7px;
+	left: 260px;
+	width: 45px;
+	height: 71.27px;
+}
+
+
+._prevent_risks_of_a_fire {
+	top: 38px;
+	left: 600px;
+	width: 307px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:#4F5665;
+}
+
+._prevent_risks_of_a_fire:hover {
+	color: black;
+}
+
+._what_to_do_during_a_fire_ {
+	top: 38px;
+	left: 1000px;
+	width: 353px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 30px;
+	text-align: left;
+	color:red;
+}
+
+._what_to_do_during_a_fire_:hover {
+	color: black;
+}
+
+.fire_safety {
+	top: 15px;
+	left: 20px;
+	width: 350px;
+	height: 105px;
+	overflow: hidden;
+	font-family: Rubik;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 70px;
+	color:#0B132A;
+}
 
 .content {
 	top: 0px;
@@ -37,12 +117,12 @@ div {
 
 .dftitle {
 	top: 325px;
-	left: 1000px;
+	left: 970px;
 	width: 801px;
 	height: 242.5px;
 	overflow: hidden;
 	font-family: Rubik;
-	font-size: 100px;
+	font-size: 85px;
 	font-weight: bold;
 	text-align: left;
 	line-height: 70px;
@@ -52,8 +132,8 @@ div {
 }
 
 .dft {
-	top: 525px;
-	left: 1000px;
+	top: 500px;
+	left: 970px;
 	width: 570px;
 	height: 171px;
 	overflow: hidden;
@@ -64,7 +144,7 @@ div {
 }
 
 .mofimg {
-	left: 100px;
+	left: 30px;
 	top: 125px;
 	width: 750px;
 	height: 750px;
